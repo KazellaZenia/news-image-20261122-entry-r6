@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/KazellaZenia/news-image-20261122-entry-r6/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/KazellaZenia/news-image-20261122-entry-r6/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 # THE SUNDAY GLOBE — news-image-20261122, round 6
 
 Built for [make.fun's "Sum up 22 November's world news in one image" bounty](https://make.fun/bounty/news-image-20261122) ($100 in USDC).
